@@ -16,18 +16,18 @@ You can find my CV here: [Zixuan Zhou's Curriculum Vitae](../assets/Curriculum_V
 
 Research
 ======
-· Backside Power Delivery Network (BSPDN) in coordination with Carbon Nanotube Field Effect Transistors (CNFETs)
-· Novel structures of Monolithic 3D design using the knowledge in BSPDN and CNFETs 
-· Experiments on novel methods to do wet etch
+- Backside Power Delivery Network (BSPDN) in coordination with Carbon Nanotube Field Effect Transistors (CNFETs)  
+- Novel structures of Monolithic 3D design using the knowledge in BSPDN and CNFETs 
+- Experiments on novel methods to do wet etch
 
 Publication
 ======
-Patent: Backside Power Delivery Network(BSPDN) in face of low-temperature thin-flim transistors (First author）
+Patent: Backside Power Delivery Network(BSPDN) in face of low-temperature thin-flim transistors (First author）  
 Status: Submitted
 
 Education
 ======
-09/2022- present [School of Electronics Engineering and Computer Science (EECS)](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/)
+09/2022- present [School of Electronics Engineering and Computer Science (EECS)](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/)  
 09/2019-06/2022 [NO.1 Middle School affiliated to Central China Normal University](https://www.hzsdyfz.com.cn/)
 
 Skills
@@ -36,6 +36,11 @@ Skills
 1. Programming languages: C++ /Verilog/Python (seldom used by myself)
 1. CAD tools: Virtuoso/ Xilinx Vivado / Xilinx Vitis HLS (beginner)
 
+Internship
+======
+- Equipment for Device Fabrication: E-Beam Vapor System/Scanning Electron Microscope (SEM)/Reactive Ion Etching (RIE)/Laser Direct Writing/Step Profiler/…
+- Programming languages: C++ /Verilog/Python (seldom used by myself)
+- CAD tools: Virtuoso/ Xilinx Vivado / Xilinx Vitis HLS (beginner)
 
 Create content & metadata
 ------
