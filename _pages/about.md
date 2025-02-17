@@ -43,7 +43,7 @@ I spent my summer vacation visiting and studying in ICRD, where I witnessed the 
 
 Course Projects
 ======
-High Level Chip Design-[Sparse-Matrix-Multiplication](https://github.com/Zixuan-Haily-Zhou/Sparse-Matrix-Multiplication) 
+High Level Chip Design-[Sparse-Matrix-Multiplication](https://github.com/Zixuan-Haily-Zhou/Sparse-Matrix-Multiplication)   
 Digital IC and Systems-[16bit-high-speed-adder-design](https://github.com/Zixuan-Haily-Zhou/16bit-high-speed-adder-design)  
 Modeling, Analysis and Optimization for Computing System-[Boolean-Circuit-Matching](https://github.com/Zixuan-Haily-Zhou/Boolean-Circuit-Matching-SAT-/tree/main)  
 Introduction to Computation-[Nogo-Game](https://github.com/Zixuan-Haily-Zhou/Nogo-Game)  
