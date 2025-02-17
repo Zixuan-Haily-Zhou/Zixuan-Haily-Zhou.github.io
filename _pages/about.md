@@ -38,9 +38,9 @@ Skills
 
 Internship
 ======
-- Equipment for Device Fabrication: E-Beam Vapor System/Scanning Electron Microscope (SEM)/Reactive Ion Etching (RIE)/Laser Direct Writing/Step Profiler/…
-- Programming languages: C++ /Verilog/Python (seldom used by myself)
-- CAD tools: Virtuoso/ Xilinx Vivado / Xilinx Vitis HLS (beginner)
+07/2024-08/2024 [Shanghai IC Research and Development Center (ICRD)](https://www.icrd.com.cn/index.aspx)  
+I spent my summer vacation visiting and studying in ICRD, where I witnessed the industrial manufacture of IC. Shocked by the difference between fabrication in labs and that in factories, I now have a deeper understanding of “art” of device fabrication.
+
 
 Create content & metadata
 ------
