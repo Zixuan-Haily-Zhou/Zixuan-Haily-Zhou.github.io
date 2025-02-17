@@ -16,9 +16,9 @@ You can find my CV here: [Zixuan Zhou's Curriculum Vitae](../assets/Curriculum_V
 
 Research
 ======
-	Backside Power Delivery Network (BSPDN) in coordination with Carbon Nanotube Field Effect Transistors (CNFETs)
- Novel structures of Monolithic 3D design using the knowledge in BSPDN and CNFETs 
-	Experiments on novel methods to do wet etch
+· Backside Power Delivery Network (BSPDN) in coordination with Carbon Nanotube Field Effect Transistors (CNFETs)
+· Novel structures of Monolithic 3D design using the knowledge in BSPDN and CNFETs 
+· Experiments on novel methods to do wet etch
 
 Publication
 ======
@@ -30,10 +30,12 @@ Education
 09/2022- present [School of Electronics Engineering and Computer Science (EECS)](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/)
 09/2019-06/2022 [NO.1 Middle School affiliated to Central China Normal University](https://www.hzsdyfz.com.cn/)
 
+Skills
+======
+1. Equipment for Device Fabrication: E-Beam Vapor System/Scanning Electron Microscope (SEM)/Reactive Ion Etching (RIE)/Laser Direct Writing/Step Profiler/…
+1. Programming languages: C++ /Verilog/Python (seldom used by myself)
+1. CAD tools: Virtuoso/ Xilinx Vivado / Xilinx Vitis HLS (beginner)
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
 Create content & metadata
 ------
