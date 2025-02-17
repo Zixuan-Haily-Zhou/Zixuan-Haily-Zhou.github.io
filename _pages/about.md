@@ -41,6 +41,9 @@ Internship
 07/2024-08/2024 [Shanghai IC Research and Development Center (ICRD)](https://www.icrd.com.cn/index.aspx)  
 I spent my summer vacation visiting and studying in ICRD, where I witnessed the industrial manufacture of IC. Shocked by the difference between fabrication in labs and that in factories, I now have a deeper understanding of “art” of device fabrication.
 
+Course Projects
+======
+High Level Chip Design-[
 
 <!--Create content & metadata
 ------
