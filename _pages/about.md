@@ -50,7 +50,8 @@ Introduction to Computation-[Nogo-Game](https://github.com/Zixuan-Haily-Zhou/Nog
 
 Life Beyond Research 
 =====
-- Give a speech on behalf of the E class in front of Nobel Laureate [Prof.Hiroshi Amano](https://en.wikipedia.org/wiki/Hiroshi_Amano)! ![profile](../images/profile.png)
+- Give a speech on behalf of the E class in front of Nobel Laureate [Prof.Hiroshi Amano](https://en.wikipedia.org/wiki/Hiroshi_Amano)! 
+<img src="../images/profile.png" alt="示例图片" width="300">
 - 
 
 <!--Create content & metadata
