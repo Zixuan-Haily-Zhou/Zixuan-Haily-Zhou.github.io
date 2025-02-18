@@ -48,6 +48,10 @@ Digital IC and Systems-[16bit-high-speed-adder-design](https://github.com/Zixuan
 Modeling, Analysis and Optimization for Computing System-[Boolean-Circuit-Matching](https://github.com/Zixuan-Haily-Zhou/Boolean-Circuit-Matching-SAT-/tree/main)  
 Introduction to Computation-[Nogo-Game](https://github.com/Zixuan-Haily-Zhou/Nogo-Game)  
 
+Life Beyond Research 
+=====
+- Give a speech on behalf of the E class in front of Nobel Laureate [Prof.Hiroshi Amano](https://en.wikipedia.org/wiki/Hiroshi_Amano)! ![profile](profile.png) 
+- 
 
 <!--Create content & metadata
 ------
