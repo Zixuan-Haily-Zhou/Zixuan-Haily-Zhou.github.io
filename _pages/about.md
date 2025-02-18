@@ -54,8 +54,8 @@ Life Beyond Research
 <img src="../images/profile.png" alt="示例图片" width="300">
 - I took part in the Rural education support program in Jiangxi Province, every one is so nice!
 <img src="../images/class1.png" alt="Image 1" width="200" style="display:inline-block; margin-right: 10px;">
-<img src="../images/class1.png" alt="Image 2" width="200" style="display:inline-block; margin-right: 10px;">
-<img src="../images/class1.png" alt="Image 3" width="200" style="display:inline-block;">
+<img src="../images/class2.png" alt="Image 2" width="200" style="display:inline-block; margin-right: 10px;">
+<img src="../images/class3.png" alt="Image 3" width="200" style="display:inline-block;">
 
   
 <!--Create content & metadata
