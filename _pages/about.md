@@ -12,7 +12,7 @@ I'm a third year undergraduate student from [School of EECS](https://eecs.pku.ed
 
 I am very fortunate to be advised by [Prof. Rongmei Chen](https://crm-prcc.github.io/) of Research Center for Carbon-based Electronics from [School of Electronics](https://ele.pku.edu.cn/), Peking University. 
 
-You can find my CV here: [Zixuan Zhou's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Zixuan Zhou's Curriculum Vitae](../assets/Zixuan Zhou CV(safe).pdf).
 
 Research
 ======
