@@ -20,10 +20,10 @@ Research
 - Novel structures of Monolithic 3D design using the knowledge in BSPDN and CNFETs 
 - Experiments on novel methods to do wet etch
 
-Publication
+<!Publication
 ======
 Patent: Backside Power Delivery Network(BSPDN) in face of low-temperature thin-flim transistors (First author）  
-Status: Submitted
+Status: Submitted-->
 
 Education
 ======
