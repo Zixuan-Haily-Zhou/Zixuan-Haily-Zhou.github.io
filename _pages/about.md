@@ -58,7 +58,7 @@ Life Beyond Research
     <img src="../images/class3.png" alt="Image 3" width="250">
 </div>
 - I take part in the 1st national conference on surface and interface science of the Chinese Chemical Society!
-<img src="../images/surface-conference.png" alt="示例图片" width="300">
+<img src="../images/surface-conference.jpg" alt="示例图片" width="300">
 - I take part in the Table Tennis Competition in PKU every year!
 <img src="../images/table-tennis.png" alt="示例图片" width="300">
   
