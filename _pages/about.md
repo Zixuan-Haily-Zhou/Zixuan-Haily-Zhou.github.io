@@ -16,13 +16,14 @@ You can find my CV here: [Zixuan Zhou's Curriculum Vitae](../assets/Zixuan Zhou 
 
 Research
 ======
-- [Prof. Rongmei Chen](https://crm-prcc.github.io/) of Research Center for Carbon-based Electronics from [School of Electronics](https://ele.pku.edu.cn/), Peking University.
+- 03/2024-present [Prof. Rongmei Chen](https://crm-prcc.github.io/) of Research Center for Carbon-based Electronics from [School of Electronics](https://ele.pku.edu.cn/), Peking University.
 1. Backside Power Delivery Network (BSPDN) in coordination with Carbon Nanotube Field Effect Transistors (CNFETs)  
 1. Novel structures of Monolithic 3D design using the knowledge in BSPDN and CNFETs 
 1. Experiments on novel methods to do wet etch
-- [Prof.Yuan Cao](https://www2.eecs.berkeley.edu/Faculty/Homepages/caoyuan.html) of [Reconfigurable Quantum Materials Lab](https://www.caorqmlab.com/) from [School of Electronics Engineering and Computer Science (EECS)](https://eecs.berkeley.edu/), UC Berkeley
-  1. Wet-transferring Graphene
-  1. 2D material fabrication
+- 07/2025-01/2026 [Prof.Yuan Cao](https://www2.eecs.berkeley.edu/Faculty/Homepages/caoyuan.html) of [Reconfigurable Quantum Materials Lab](https://www.caorqmlab.com/) from [School of Electronics Engineering and Computer Science (EECS)](https://eecs.berkeley.edu/), UC Berkeley
+1. Wet-transferring Graphene
+1. 2D material fabrication
+- 09/2025-present [Prof.Zhe Cheng](https://ic.pku.edu.cn/en/Faculty/Facultys/DepartmentofMicroNanoelectronics/ChengZhe/index.htm) in [School of IC](https://ic.pku.edu.cn/), Peking University.
 
 <!Publication
 ======
@@ -31,7 +32,7 @@ Status: Submitted-->
 
 Education
 ======
-- 07/2025-01/2026  visiting scholar of [School of Electronics Engineering and Computer Science (EECS)](https://eecs.berkeley.edu/), [University of California, Berkeley](https://www.berkeley.edu/)
+- 07/2025-01/2026 Visiting Scholar of [School of Electronics Engineering and Computer Science (EECS)](https://eecs.berkeley.edu/), [University of California, Berkeley](https://www.berkeley.edu/)
 - 09/2022- present [School of Electronics Engineering and Computer Science (EECS)](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/)  
 - 09/2019-06/2022 [NO.1 Middle School affiliated to Central China Normal University](https://www.hzsdyfz.com.cn/)
 
