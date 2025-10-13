@@ -12,15 +12,17 @@ I'm an undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [P
 
 I have been admitted to the Ph.D. program in [School of IC](https://ic.pku.edu.cn/), Peking University.
 
-I am very fortunate to be advised by [Prof. Rongmei Chen](https://crm-prcc.github.io/) of Research Center for Carbon-based Electronics from [School of Electronics](https://ele.pku.edu.cn/), Peking University. 
-
 You can find my CV here: [Zixuan Zhou's Curriculum Vitae](../assets/Zixuan Zhou CV(safe).pdf).
 
 Research
 ======
-- Backside Power Delivery Network (BSPDN) in coordination with Carbon Nanotube Field Effect Transistors (CNFETs)  
-- Novel structures of Monolithic 3D design using the knowledge in BSPDN and CNFETs 
-- Experiments on novel methods to do wet etch
+- [Prof. Rongmei Chen](https://crm-prcc.github.io/) of Research Center for Carbon-based Electronics from [School of Electronics](https://ele.pku.edu.cn/), Peking University.
+1. Backside Power Delivery Network (BSPDN) in coordination with Carbon Nanotube Field Effect Transistors (CNFETs)  
+1. Novel structures of Monolithic 3D design using the knowledge in BSPDN and CNFETs 
+1. Experiments on novel methods to do wet etch
+- [Prof.Yuan Cao](https://www2.eecs.berkeley.edu/Faculty/Homepages/caoyuan.html) of [Reconfigurable Quantum Materials Lab](https://www.caorqmlab.com/) from [School of Electronics Engineering and Computer Science (EECS)](https://eecs.berkeley.edu/), UC Berkeley
+  1. Wet-transferring Graphene
+  1. 2D material fabrication
 
 <!Publication
 ======
