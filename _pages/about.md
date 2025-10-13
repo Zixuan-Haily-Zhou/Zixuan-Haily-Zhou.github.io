@@ -27,7 +27,7 @@ Status: Submitted-->
 
 Education
 ======
-07/2025-01/2026  visiting scholar of [School of Electronics Engineering and Computer Science (EECS)](https://eecs.berkeley.edu/), [University of California, Berkeley](https://www.berkeley.edu/)
+07/2025-01/2026  visiting scholar of [School of Electronics Engineering and Computer Science (EECS)](https://eecs.berkeley.edu/), [University of California, Berkeley](https://www.berkeley.edu/)\\
 09/2022- present [School of Electronics Engineering and Computer Science (EECS)](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/)  
 09/2019-06/2022 [NO.1 Middle School affiliated to Central China Normal University](https://www.hzsdyfz.com.cn/)
 
