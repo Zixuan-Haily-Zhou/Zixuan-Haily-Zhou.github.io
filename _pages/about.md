@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes Backside Power Delivery Network(BSPDN), Carbon nanotubes(CNT), Bioelectrical Engineering, 3D heterogeneous design and 2D materials.
+I'm an undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes IC thermal management, Backside Power Delivery Network(BSPDN), MEMS, Bioelectrical Engineering and 2D materials.
+
+I have been admitted to the Ph.D. program in [School of IC](https://ic.pku.edu.cn/), Peking University.
 
 I am very fortunate to be advised by [Prof. Rongmei Chen](https://crm-prcc.github.io/) of Research Center for Carbon-based Electronics from [School of Electronics](https://ele.pku.edu.cn/), Peking University. 
 
@@ -27,9 +29,9 @@ Status: Submitted-->
 
 Education
 ======
-07/2025-01/2026  visiting scholar of [School of Electronics Engineering and Computer Science (EECS)](https://eecs.berkeley.edu/), [University of California, Berkeley](https://www.berkeley.edu/)\\
-09/2022- present [School of Electronics Engineering and Computer Science (EECS)](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/)  
-09/2019-06/2022 [NO.1 Middle School affiliated to Central China Normal University](https://www.hzsdyfz.com.cn/)
+- 07/2025-01/2026  visiting scholar of [School of Electronics Engineering and Computer Science (EECS)](https://eecs.berkeley.edu/), [University of California, Berkeley](https://www.berkeley.edu/)
+- 09/2022- present [School of Electronics Engineering and Computer Science (EECS)](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/)  
+- 09/2019-06/2022 [NO.1 Middle School affiliated to Central China Normal University](https://www.hzsdyfz.com.cn/)
 
 Skills
 ======
